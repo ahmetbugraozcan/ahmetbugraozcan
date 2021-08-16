@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello World, I'm Ahmet Buğra 👋
+# Ahmet Bugra Ozcan 👨🏻‍💻 CENG Student
 
 <br />
 I'm working as a Junior Frontend Developer at Detaysoft company.
