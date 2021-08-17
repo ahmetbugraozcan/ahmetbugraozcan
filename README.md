@@ -19,6 +19,8 @@ I'm working as a Junior Frontend Developer at Detaysoft company.
 <br />
 <br />
 
-[![Doringl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbugraozcan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Doringl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbugraozcan&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbugraozcan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbugraozcan&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+
