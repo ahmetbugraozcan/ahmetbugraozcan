@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Ahmet Bugra Ozcan 👨🏻‍💻 CENG Student
+# Ahmet Bugra Ozcan 👨🏻‍💻 Cumhuriyet University CENG Student 19/20
 
 <br />
 I'm working as a Junior Frontend Developer at Detaysoft company.
