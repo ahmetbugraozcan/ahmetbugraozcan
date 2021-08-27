@@ -10,12 +10,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p  align="center"><img height="380" src = "https://github.com/ahmetbugraozcan/ahmetbugraozcan/blob/main/code.gif"></p>
 
 # Ahmet Bugra Ozcan 👨🏻‍💻 Cumhuriyet University CENG Student 19/20
 
 <br />
 I'm working as a Junior Frontend Developer at Detaysoft company.
+
+<p  align="center"><img height="380" src = "https://github.com/ahmetbugraozcan/ahmetbugraozcan/blob/main/code.gif"></p>
 
 <br />
 <br />
