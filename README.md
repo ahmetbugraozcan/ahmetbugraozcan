@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 # Ahmet Bugra Ozcan 👨🏻‍💻 Cumhuriyet University CENG Student 19/20
 
 <br />
-Intern at Detaysoft.
+Mobile developer.
 
 <br />
 <br />
