@@ -30,5 +30,4 @@ Mobile developer.
 </p>
 
 <br />
-<p  align="center"><img src = "https://github.com/ahmetbugraozcan/ahmetbugraozcan/blob/main/code.gif"></p>
 
