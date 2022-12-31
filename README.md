@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 # Ahmet Bugra Ozcan 👨🏻‍💻 Cumhuriyet University CENG Student 19/20
-### 👨🏻‍💻I’m currently learning IOS App Development with SwiftUI
+### 👨🏻‍💻I’m currently learning IOS App Development with SwiftUI & UIKit
 
   
 ## Tools I work upon : 🛠
