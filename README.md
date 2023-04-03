@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 <br />
 
-## Blogs
-- [Flutter’da Native Kod Çalıştırmak ve Pigeon Kullanımı](https://medium.com/@bugra.ahmetozcan/flutterda-native-kod-%C3%A7al%C4%B1%C5%9Ft%C4%B1rmak-ve-pigeon-kullan%C4%B1m%C4%B1-methodchannel-eventchannel-ee122c465f29)<br>
-- [Swift Encodable & Decodable — JSON veri dönüşümleri](https://medium.com/@bugra.ahmetozcan/swift-encodable-decodable-json-veri-d%C3%B6n%C3%BC%C5%9F%C3%BCmleri-501d5fe94f23)
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
