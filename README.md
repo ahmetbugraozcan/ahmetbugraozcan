@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Interop Native C and C++ in Dart code with dart:ffi.](https://medium.com/@bugra.ahmetozcan/interop-native-c-and-c-in-dart-code-with-dart-ffi-e0e34a6a3156?source=rss-8adafcf7bc4a------2)
 - [Swift Encodable &amp; Decodable — JSON veri dönüşümleri](https://medium.com/@bugra.ahmetozcan/swift-encodable-decodable-json-veri-d%C3%B6n%C3%BC%C5%9F%C3%BCmleri-501d5fe94f23?source=rss-8adafcf7bc4a------2)
 - [Flutter’da Native Kod Çalıştırmak ve Pigeon Kullanımı &lpar;MethodChannel, EventChannel&rpar;](https://medium.com/@bugra.ahmetozcan/flutterda-native-kod-%C3%A7al%C4%B1%C5%9Ft%C4%B1rmak-ve-pigeon-kullan%C4%B1m%C4%B1-methodchannel-eventchannel-ee122c465f29?source=rss-8adafcf7bc4a------2)
 <!-- BLOG-POST-LIST:END -->
