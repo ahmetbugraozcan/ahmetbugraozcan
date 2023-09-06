@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ahmet Buğra</h1>
-<h3 align="center">iOS Developer</h3>
-<h3 align="center">Have master's degree in CENG</h3>
+<h3 align="center">Computer Engineer / iOS Developer</h3>
 
  - 📪 Reach me at bugra.ahmetozcan@gmail.com
  - 🌐 [My Website](https://ahmetbugraozcan.github.io/ahmetbugraozcanweb/) <br>
