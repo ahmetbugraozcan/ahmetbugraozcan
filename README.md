@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ahmet Buğra</h1>
 <h3 align="center">Cumhuriyet University CENG Student 19/20</h3>
 
- - 👨‍💻️ I’m currently learning IOS App Development with **UIKit & SwiftUI** <br>
  - 📪 Reach me at bugra.ahmetozcan@gmail.com
  - 🌐 [My Website](https://ahmetbugraozcan.github.io/ahmetbugraozcanweb/) <br>
 
