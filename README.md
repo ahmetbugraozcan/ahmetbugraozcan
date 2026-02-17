@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 <h3 align="center">Computer Engineer / iOS Developer</h3>
 
  - 📪 Reach me at bugra.ahmetozcan@gmail.com
- - 🌐 [My Website](https://ahmetbugraozcan.github.io/ahmetbugraozcanweb/) <br>
 
 <br>
 <p align="center">
